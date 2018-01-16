@@ -13,6 +13,7 @@ function Level1() {
  document.getElementById('button-3').onclick = die;
  document.getElementById('title').innerHTML = "Level 1";
  document.getElementById('intro').innerHTML = "Je staat voor een deur. Ga je naar binnen?";
+ 
  document.getElementById('button-1').style.display = "inline";
  document.getElementById('button-2').style.display = "inline";
  document.getElementById('button-3').style.display = "inline";
